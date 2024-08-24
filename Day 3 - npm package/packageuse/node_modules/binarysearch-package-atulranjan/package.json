@@ -1,11 +1,11 @@
 {
-  "name": "binarysearchpackage_atulranjan",
+  "name": "binarysearch-package-atulranjan",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "atul ranjan",
+  "author": "",
   "license": "ISC",
   "description": ""
 }
